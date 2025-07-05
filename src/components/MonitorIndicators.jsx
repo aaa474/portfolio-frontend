@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
 
-const monitorLabels = ['Main Page', 'About Me', 'Experience', 'Projects', 'Contact'];
+const monitorLabels = ['Main Page', 'About', 'Experience', 'Projects', 'Contact'];
 const monitorColors = ['red', 'orange', 'yellow', 'green', 'deepskyblue'];
 
 
