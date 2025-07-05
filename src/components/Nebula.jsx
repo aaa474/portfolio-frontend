@@ -3,7 +3,7 @@ import { useFrame, useLoader } from '@react-three/fiber';
 import * as THREE from 'three';
 
 export default function Nebula() {
-  const texture = useLoader(THREE.TextureLoader, '/hubble_nebula_ngc_2818.png'); 
+  const texture = useLoader(THREE.TextureLoader, '/Translucent_Helix_Nebula.png'); 
   const ref = useRef();
 
   useFrame(() => {
