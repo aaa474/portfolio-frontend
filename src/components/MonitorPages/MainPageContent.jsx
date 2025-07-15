@@ -278,7 +278,7 @@ export default function MainPageContent({ handleMonitorClick, currentIndex }) {
               >
                 Back
               </span>
-              on the top right to exit this monitor and use the page sliders to explore the other monitor's contents, or you can use the navbar up here to automatically take you to any of the other pages automatically. If you want to explore the outside environment for fun, you can just use the different view modes to see the cool space environment!
+              on the top right to exit this monitor and use the page sliders to explore the other monitor's contents. Or if you want to just view certain information, you can use the navbar up here to automatically take you to any of the other pages automatically. If you want to explore the outside environment for fun, you can just use the different view modes to see the cool space environment!
               <div style={{
                 background: 'rgba(255, 255, 255, 0.05)',
                 borderLeft: '4px solid #00ffff',
@@ -287,7 +287,7 @@ export default function MainPageContent({ handleMonitorClick, currentIndex }) {
                 fontStyle: 'italic',
                 color: '#ccc',
               }}>
-                “I love designing with code and pushing the edge of what's possible in the browser.”
+                “I love designing with code and pushing the edge of what's possible.”
               </div>
             </p>
 
