@@ -301,7 +301,7 @@ export default function MainPageContent({ handleMonitorClick, currentIndex }) {
               }}
             >
               <a
-                href="/Aslam's Resume.pdf"
+                href="/Aslam Azes's Resume.pdf"
                 download
                 onMouseOver={(e) => {
                   e.currentTarget.style.boxShadow = '0 0 16px #ffff00';
